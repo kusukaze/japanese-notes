@@ -236,7 +236,7 @@ OLPF体系共分9级，其记号如下表所示。
 
 下图为虚构的二次创作。
 
-[正面](https://notes.sjtu.edu.cn/uploads/upload_0e762aec673345d241110c11a4eeb6c4.jpg) / [反面](https://notes.sjtu.edu.cn/uploads/upload_53dc909d4b18f4cb6c317176e6632204.jpg)
+[正面](https://notes.sjtu.edu.cn/uploads/upload_efc003df99664aa1b376fbe3dcdc2d01.jpg) / [反面](https://notes.sjtu.edu.cn/uploads/upload_6f326caab804ccb51aa6171cc53ac9cd.jpg)
 
 ---
 
