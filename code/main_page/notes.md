@@ -47,6 +47,7 @@
 </a>
 
 [:paperclip:【学习资料下载】楠风储物间](https://notes.sjtu.edu.cn/s/T9I2Vv7Zh)
+[:incoming_envelope: 致日语业余学习者的一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
 <a href="https://space.bilibili.com/3546632117291336"><img src="https://notes.sjtu.edu.cn/uploads/upload_652ed90d15c35fe87c7f0b2f2c17f455.png" alt="bilibili" width="24"/></a> / <a href="https://github.com/kusukaze"><img src="https://notes.sjtu.edu.cn/uploads/upload_475adc9228700716bfb367616dfa5a61.png" alt="github" width="24"/></a>
 <!-- 注释内容 
 

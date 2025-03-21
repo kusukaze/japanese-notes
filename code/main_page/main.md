@@ -124,3 +124,5 @@ tags: kusukaze, website
 [:memo: 日语学习笔记](https://notes.sjtu.edu.cn/s/hCLBAZd-P)
 
 [:paperclip: 楠风储物间](https://notes.sjtu.edu.cn/s/T9I2Vv7Zh)
+
+[:incoming_envelope: 致日语业余学习者的一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
