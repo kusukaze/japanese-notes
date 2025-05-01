@@ -40,6 +40,7 @@
 [古典日语快速入门](https://notes.sjtu.edu.cn/s/smNtgxGPQ)
 [动词变形后的调型规律](https://notes.sjtu.edu.cn/s/LT8vCddsk)
 [N4四大坑](https://notes.sjtu.edu.cn/s/DGayJKAWy)
+[歧义句及其可辨别性](https://notes.sjtu.edu.cn/s/i2yYTL4z8)
 
 ### 5. 其他
 <a href="https://notes.sjtu.edu.cn/s/79qiYbtis">
