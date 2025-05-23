@@ -276,8 +276,7 @@ OLPF体系共分9级，其记号如下表所示。
 | -------- | ------ | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | N5       | 10     | 短文跟读  牛肉盖饭       | [:outbox_tray:](https://www.bilibili.com/video/BV12Z421v7Q6)                                                                              |
 | N4       | 20     | NHK新闻简单版            | [:outbox_tray:](https://www3.nhk.or.jp/news/easy/k10014438411000/k10014438411000.html)                                                    |
-| N3       | 30     | 人民网日文版             | [:outbox_tray:](http://j.people.com.cn/n3/2024/0507/c94476-20165650.html)                                                                 |
-| N3+      | 35     | NHK新闻普通版            | [:outbox_tray:](https://www3.nhk.or.jp/news/html/20250125/k10014703651000.html)                                                           |
+| N3       | 30     | 人民网日文版             | [:outbox_tray:](http://j.people.com.cn/n3/2024/0507/c94476-20165650.html)                                                                 |<!-->| N3+      | 35     | NHK新闻普通版            | [:outbox_tray:](https://www3.nhk.or.jp/news/html/20250125/k10014703651000.html)                                                           |<-->
 | N2       | 40     | NHK新闻专栏              | [:outbox_tray:](https://www3.nhk.or.jp/news/html/20240507/k10014441911000.html)                                                           |
 | N2       | 40     | 白石定规《魔女之旅》     |                                                                                                                                           |
 | N1       | 50     | 支仓冻砂《狼与香辛料》   |                                                                                                                                           |
