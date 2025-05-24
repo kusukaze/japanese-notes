@@ -95,7 +95,7 @@ tags: kusukaze, website
 
 ### 3. 业务内容
 * 日语特性研究
-  探索如何写出更加自然的日语，同时通过不断学习提高翻译技巧。
+  探索如何写出更加自然的日语，通过不断学习提高翻译技巧。
 
 * 日语小说创作
   突破内容和形式的限制，从零开始创作属于自己的小说，享受创作的乐趣。
@@ -106,6 +106,8 @@ tags: kusukaze, website
 * 日语教程撰写
   针对教材中没有提到的问题，用最通俗的语言进行解释。
 
+* 日语工具开发
+  开发日语小工具，利用技术辅助日语学习，并挖掘日语中有意思的小细节。
 
 ### 4. 历史沿革
 2018年2月　 开启日语学习
@@ -125,4 +127,5 @@ tags: kusukaze, website
 
 [:paperclip: 楠风储物间](https://notes.sjtu.edu.cn/s/T9I2Vv7Zh)
 
-[:incoming_envelope: 致日语业余学习者的一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
+[:incoming_envelope: 致日语业余学习者的第一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
+[:incoming_envelope: 致日语业余学习者的第二封信](https://notes.sjtu.edu.cn/s/pa9IRcszQ)

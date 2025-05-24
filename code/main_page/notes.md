@@ -8,9 +8,16 @@
 [汉译日笔记A](https://notes.sjtu.edu.cn/s/wgoR274Ub)（待完善）
 [汉译日笔记B](https://notes.sjtu.edu.cn/s/x8PpZHEpN)（待完善）
 
+[烤肉练习 :outbox_tray:](https://www.bilibili.com/read/readlist/rl919954)
+
+<style>
+    rt {
+        font-size:12px
+    }
+</style>
 
 ### 2. 日语小说创作
-《猫耳少女×星空×爱》系列
+**<ruby>スター<rt>Star</rt></ruby><ruby>ガールズ<rt>Girls</rt></ruby><ruby>ドリーマー<rt>Dreamer</rt></ruby>（スガドリ） / 星空少女幻想曲**
 [第1作：遨游星空的猫耳少女 :outbox_tray:](https://www.bilibili.com/read/readlist/rl832841) （中日双语，推荐）
 [第2作：猫咪与航标 :outbox_tray:](https://www.bilibili.com/read/readlist/rl856973) （日语）
 [第3作：黑黑的我也想被爱 :outbox_tray:](https://www.bilibili.com/read/readlist/rl881762) （日语）
@@ -36,19 +43,23 @@
 
 
 ### 4. 日语教程撰写
-[专栏-日语用言变形的Java实现 :outbox_tray:](https://www.bilibili.com/read/readlist/rl876020)
 [古典日语快速入门](https://notes.sjtu.edu.cn/s/smNtgxGPQ)
 [动词变形后的调型规律](https://notes.sjtu.edu.cn/s/LT8vCddsk)
 [N4四大坑](https://notes.sjtu.edu.cn/s/DGayJKAWy)
 [歧义句及其可辨别性](https://notes.sjtu.edu.cn/s/i2yYTL4z8)
 
-### 5. 其他
+### 5. 日语工具开发
+[日语用言变形的Java实现 :outbox_tray:](https://www.bilibili.com/read/readlist/rl876020)
+[日语词汇统计 :outbox_tray:](https://www.bilibili.com/read/readlist/rl929249)
+
+### 6. 其他
 <a href="https://notes.sjtu.edu.cn/s/79qiYbtis">
  <img src="https://notes.sjtu.edu.cn/uploads/upload_229d89e80256c231d57ddff4886844b2.png" alt="krc" width="24"/> 楠风研究部简介
 </a>
 
 [:paperclip:【学习资料下载】楠风储物间](https://notes.sjtu.edu.cn/s/T9I2Vv7Zh)
-[:incoming_envelope: 致日语业余学习者的一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
+[:incoming_envelope: 致日语业余学习者的第一封信](https://notes.sjtu.edu.cn/s/qsW46usuN)
+[:incoming_envelope: 致日语业余学习者的第二封信](https://notes.sjtu.edu.cn/s/pa9IRcszQ)
 <a href="https://space.bilibili.com/3546632117291336"><img src="https://notes.sjtu.edu.cn/uploads/upload_652ed90d15c35fe87c7f0b2f2c17f455.png" alt="bilibili" width="24"/></a> / <a href="https://github.com/kusukaze"><img src="https://notes.sjtu.edu.cn/uploads/upload_475adc9228700716bfb367616dfa5a61.png" alt="github" width="24"/></a>
 <!-- 注释内容 
 
