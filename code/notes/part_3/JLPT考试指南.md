@@ -23,6 +23,8 @@
 | 第1次（7月）  | 3月下旬 | 7月的第一个周日  | 8月下旬     |  10月左右   |
 | 第2次（12月） | 8月下旬 | 12月的第一个周日 | 次年1月下旬 |  次年3月左右   |
 
+随着考试人数的增多，官方各项工作的时间点似乎有变晚的趋势，例如2025年12月的考试9月初才开始报名。建议提前关注官网或日语学习相关自媒体，以免错过报名。
+
 一般来说，下一次考试的报名晚于前一次考试出分。报名为早上7点开始，部分地区考位紧缺，需要早起卡点报名。
 
 考场列表可在3.2节的[“考点信息”](https://jlpt.neea.edu.cn/kdinfo.do?kdid=info)获取。需要注意的是，并不是每个考场都举办所有等级的考试。
@@ -40,9 +42,17 @@ N4、N5包括2部分：**语言知识·阅读** 和 **听力**。
 
 考试时间分配见3.2节中的[“考生须知”](https://jlpt.neea.edu.cn/ksxz.html)。
 
-特别提醒：N1、N2有2次收卷，N3、N4、N5有3次收卷，请务必注意好答题时间！收卷过程中有短暂的休息，但不允许出考场。（在日本参加的则可以在休息期间自由活动）
+特别提醒：N1、N2有2次收卷，N3、N4、N5有3次收卷，请务必注意好答题时间！收卷过程中有短暂的休息，但不允许出考场。（~~在日本参加的则可以在休息期间自由活动~~ 自2024年出现大规模作弊事件后，日本考区已不再允许中途自由活动）
 
 如果你不知道哪个难度适合自己，可参考3.1节的[“官方样题”](https://www.jlpt.jp/samples/sampleindex.html#anchor01)。
+或者使用下面的网页根据学习时间估算自己适合的等级（个人观点，估计较为保守）：
+https://kusukaze.github.io/how-long
+
+如果你已经参加过一个等级的考试，希望换算成其他等级，可使用下面的网页进行换算（个人观点，仅供参考）：
+https://kusukaze.github.io/score-convert
+
+如果你想知道通过某个级别后能干什么，可参考3.1节官方发布的[“认定标准”](https://www.jlpt.jp/cn/about/levelsummary.html)、[“Can-do list”](https://www.jlpt.jp/cn/about/pdf/cdslist_all.pdf)。
+不过笔者认为官方的标准只有在日本拥有语言环境的学习者才能做到，并不适合国内的学习者。为此，笔者根据个人经验重新拟定了“御宅语言能力评价体系”（OLPF），有兴趣的读者可查看 [这篇文章](https://notes.sjtu.edu.cn/s/_t8ClOr7b#3-OLPF%E4%BD%93%E7%B3%BB%E5%90%84%E7%AD%89%E7%BA%A7%E8%83%BD%E5%8A%9B%E6%8F%8F%E8%BF%B0) 的第3章（个人观点，仅供参考）。
 
 #### 1.4 考试题型
 所有题目均为选择题。
@@ -77,7 +87,7 @@ N4、N5包括2部分：**语言知识·阅读** 和 **听力**。
 合格标准：总分和所有单项均达到合格线
 
 ### 2. 备考建议
-本章将介绍备考建议、考试注意事项、蒙题技巧。注意：合适的学习方法因人而异，故不做具体指导，只提供一个大致思路。
+本章将介绍备考建议、考试注意事项等事项。注意：合适的学习方法因人而异，故不做具体指导，只提供一个大致思路。
 
 #### 2.1 推荐备考时间
 
@@ -106,9 +116,11 @@ N4、N5包括2部分：**语言知识·阅读** 和 **听力**。
 * 真题
   适合考前最后冲刺
 
-除此之外，还可以参考各类网课和自己感兴趣的材料。在选择感兴趣的材料时，建议优先使用偏日常和正式的内容（如新闻、纪录片、日常番等），而不是过于中二的内容，以提升训练成果的泛用性。如果你不清楚每个等级对应的材料大概是什么难度，可以参考一下 [这篇文章](https://notes.sjtu.edu.cn/s/_t8ClOr7b#4-OLPF%E9%9A%BE%E5%BA%A6%E6%A0%B7%E4%BE%8B) 的第4章。
+除此之外，还可以参考各类网课和自己感兴趣的材料。在选择感兴趣的材料时，建议优先使用偏日常和正式的内容（如新闻、纪录片、日常番等），而不是过于中二的内容，以提升训练成果的泛用性。如果你不清楚每个等级对应的材料大概是什么难度，可以参考一下 [这篇文章](https://notes.sjtu.edu.cn/s/_t8ClOr7b#4-OLPF%E9%9A%BE%E5%BA%A6%E6%A0%B7%E4%BE%8B) 的第4章（个人观点，仅供参考）。
 
-为避免出现只会应考的情况，建议词汇和语法按照考试范围来学习，但听力和阅读用感兴趣的真实材料进行补充。当然，如果你的备考时间极为有限，或者暂时不在意实际应用，则可以只使用课本和真题练习听力和阅读。
+不过，根据笔者观察，有相当数量的考生在备考时面临时间紧任务重的局面，或是暂时不在意实际应用，因此往往采用纯应考模式，仅学习课本、教辅书、真题，而不关注真实语料。建议根据自身实际需求，合理决定是否学习课外材料，避免人云亦云。
+
+<!--为避免出现只会应考的情况，建议词汇和语法按照考试范围来学习，但听力和阅读用感兴趣的真实材料进行补充。当然，如果你的备考时间极为有限，或者暂时不在意实际应用，则可以只使用课本和真题练习听力和阅读。-->
 
 #### 2.3 各阶段重点
 
@@ -139,7 +151,11 @@ N4、N5包括2部分：**语言知识·阅读** 和 **听力**。
 以下链接截至2025年3月。
 
 #### 3.1 资料、数据等
+（日本官网可点击右上角切换语言）
 常见问题：https://jlpt.neea.edu.cn/faq.html
+各等级认定标准：https://www.jlpt.jp/about/levelsummary.html
+Can-do List：https://www.jlpt.jp/about/pdf/cdslist_all.pdf
+Can-do List修订版：https://www.jlpt.jp/about/pdf/cdslist_all_2020.pdf
 官方样题：https://www.jlpt.jp/samples/sampleindex.html#anchor01
 统计数据（合格率、成绩分布等）：https://www.jlpt.jp/statistics/archive.html
 考试介绍：https://www.jlpt.jp/reference/pdf/guidebook1.pdf
@@ -147,7 +163,7 @@ CEFR参考级别介绍：https://www.jlpt.jp/about/cefr_reference.html
 
 #### 3.2 在国内考试
 官网（含通知、报名等）：https://jlpt.neea.edu.cn/index.do
-考生须知：https://jlpt.neea.edu.cn/ksxz.html
+考生须知、考试时间：https://jlpt.neea.edu.cn/ksxz.html
 考点信息：https://jlpt.neea.edu.cn/kdinfo.do?kdid=info
 成绩查询：https://jlpt.neea.edu.cn/qryscore.jsp
 成绩单补办：https://www.jlpt.jp/saihakkou.cgi
@@ -163,6 +179,26 @@ CEFR参考级别介绍：https://www.jlpt.jp/about/cefr_reference.html
 世界各地日语教育情况：https://www.jpf.go.jp/j/project/japanese/survey/area/country/2023/index.html
 JF日语教育标准：https://www.jfstandard.jpf.go.jp/top/ja/render.do
 JF标准与JLPT的关系：https://www.jfstandard.jpf.go.jp/pdf/jfs_jlpt_report2017.pdf
+
+#### 3.5 自制小工具
+以下工具除考试倒计时外，其余均包含个人观点，仅供参考。
+
+##### 3.5.1 考试倒计时
+展示上一次和未来5次考试的日期和距今天数。
+https://kusukaze.github.io/jlpt-countdown
+
+##### 3.5.2 备考时长计算器
+根据当前等级、目标等级和每日学习时长，估算学习所需时间（估计较为保守）。若每天的学习时长超过12小时，可按“上上下下左右左右”的顺序滑动屏幕（手机）或按方向键（电脑）激活肝帝模式。
+https://kusukaze.github.io/how-long
+
+##### 3.5.3 分数转换器
+以 [**等级积分**](https://notes.sjtu.edu.cn/s/XgV1t4KBJ) 为桥梁，实现不同考试之间的分数换算，并展示其他相关信息。目前支持JLPT各等级、EJU、J.TEST。
+https://kusukaze.github.io/score-convert
+
+##### 3.5.4 考试估分器
+将正确率转换为分数（估分较为保守）。
+（N1）https://kusukaze.github.io/n1-estimate
+（N2）https://kusukaze.github.io/n2-estimate
 
 ### 4. 考试注意事项
 
@@ -250,9 +286,11 @@ JF标准与JLPT的关系：https://www.jfstandard.jpf.go.jp/pdf/jfs_jlpt_report2
 
 
 ### 6. 正确率转分数估分表
-下面是个人制作的估分表，可以根据正确率估计成绩，仅供参考。建模具体细节见附录。
+下面是个人制作的估分表，可以根据正确率估计成绩（非官方数据，仅供参考）。建模具体细节见附录。
 请注意，实际成绩有复杂的调分机制（尺度得点），而非每题固定分值。
-
+如果懒得算，可以使用自制的网页版（个人观点，仅供参考）：
+（N1）https://kusukaze.github.io/n1-estimate
+（N2）https://kusukaze.github.io/n2-estimate
 
 #### 6.1 估分表
 N1
@@ -278,9 +316,13 @@ N2（N3~N5也可使用）
 ### 7. 成绩单解释
 下面两张图展示了成绩单各块内容的含义。
 
-![成绩单1](https://notes.sjtu.edu.cn/uploads/upload_5f1b9d3ca941a0a672aee42c7becb949.png)
+<!-->![成绩单1](https://notes.sjtu.edu.cn/uploads/upload_5f1b9d3ca941a0a672aee42c7becb949.png)<!-->
+
+![成绩单1](https://notes.sjtu.edu.cn/uploads/upload_94dd67cd1483fdab5a3039def71bd179.png)
+
 
 ![成绩单2](https://notes.sjtu.edu.cn/uploads/upload_a2d2cc6f75b7d56cd6aadb0ddd8461f8.png)
+
 
 如果你在2025年12月及以后参加考试，那么参考信息里还会有一栏CEFR等级（CEFRレベル 言語能力・受容活動能力）。关于CEFR的具体介绍可见附录2。官方的对应关系只针对语言的输入能力，而不考虑输出能力。
 
